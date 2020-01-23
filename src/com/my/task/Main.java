@@ -1,4 +1,4 @@
-package com.company;
+package com.my.task;
 
 import java.io.BufferedReader;
 import java.io.IOException;
